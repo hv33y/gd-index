@@ -1,0 +1,40 @@
+.background.container {
+    background-color: #283593 !important;
+    /*background-image: url(https://cdn.jsdelivr.net/gh/shirooo39/GDIndex@luzeadev/assets/img/background.jpg);*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 1em;
+}
+
+.ui.inverted.center.aligned.header {
+    user-select: none;
+}
+
+.ui.inverted.attached.secondary.menu a {
+    display: block;
+}
+
+.content.container {
+    padding: 1em 0;
+}
+
+.hidden {
+    display: none;
+}
+
+#readme-content {
+    overflow: auto;
+}
+
+@media only screen and (min-width: 1392px) {
+    .ui.container {
+        width: 1308px !important;
+    }
+}
+
+@media only screen and (min-width: 1568px) {
+    .ui.container {
+        width: 1474px !important;
+    }
+}
