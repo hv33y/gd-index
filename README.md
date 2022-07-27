@@ -4,6 +4,7 @@ Forked version of [luzeadev/google-drive-index-worker](https://github.com/luzead
 ## Installation
 Visit one of the following sites and follow the instructions (just fill in the authorization code and leave default root ID and authentication as is), but instead of copying the generated code to Cloudflare, just save the `refresh_token` somewhere.
 
+- https://gdindex-code-builder-edit.glitch.me
 - https://gdindex-code-builder.glitch.me
 - https://gdindex-code-builder.maple3142.net
 
